@@ -81,6 +81,7 @@ p{
 
 
 .grow img{
+  color: #AA0000;
   transition: 1s ease;
   width: 25%;
   height: 25%;
